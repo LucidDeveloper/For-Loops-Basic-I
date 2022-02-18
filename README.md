@@ -1,9 +1,9 @@
 # For-Loops-Basic-I
-Coding Dojo Python For Loops Basic I Assignment.
+* Coding Dojo Python For Loops Basic I Assignment.
 
 # Objectives:
-Learn how to use basic for loop statements in Python.
-Practice some basic algorithms in Python.
+* Learn how to use basic for loop statements in Python.
+* Practice some basic algorithms in Python.
 
 # Create a Python file called for_loop_basic1.py that performs the following tasks:
 
