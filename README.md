@@ -1,5 +1,5 @@
 # Coding Dojo Assignment: For-Loops-Basic-I
-* Python For Loops
+* Python For Loops.
 
 # Objectives:
 * Learn how to use basic for loop statements in Python.
