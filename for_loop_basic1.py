@@ -1,9 +1,16 @@
-#author: Gianni M. Javier
+'''
+
+# @author: 
+# Gianni M. Javier
+
 # Assignment: For Loops: Basic I
 
 # Objectives:
 # Learn how to use basic for loop statements in Python
 # Practice some basic algorithms in Python
+
+'''
+
 # Create a Python file called for_loop_basic1.py that performs the following tasks.
 
 print() #Prints a new line
